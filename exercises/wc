@@ -1,0 +1,8 @@
+total 5
+-rwxr-xr-x 1 johns 197609  36 Aug 15 18:37 ex2_6_1_scripting_is_fun.sh*
+-rwxr-xr-x 1 johns 197609  69 Aug 16 09:33 ex3_9_1_exit_0.sh*
+-rwxr-xr-x 1 johns 197609 145 Aug 17 12:47 ex3_9_2_exit_0.sh*
+-rwxr-xr-x 1 johns 197609 149 Aug 16 17:06 ex3_9_3_exit - Copy.sh*
+-rwxr-xr-x 1 johns 197609 149 Aug 16 17:06 ex4_12_1_file_cnt.sh*
+drwxr-xr-x 1 johns 197609   0 Aug 16 17:07 tmpdir/
+-rw-r--r-- 1 johns 197609   0 Aug 18 10:34 wc
